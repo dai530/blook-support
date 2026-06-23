@@ -17,8 +17,8 @@
 
 When the app is initialised for the first time, it automatically generates a SQLite database file in the following default directory depending on your system:
 
-- **macOS**: `/Users/<Username>/Library/Application Support/Blook/blook.db`
-- **Windows**: `C:\Users\<Username>\AppData\Local\Blook\data.db`
+- **macOS**: `/Users/<Username>/Library/Application Support/me.daviddai.blook/blook.db`
+- **Windows**: `C:\Users\<Username>\AppData\Local\me.daviddai.blook\blook.db`
 
 If you want to access the same database across multiple computers, you can sync it using a cloud storage provider (e.g., iCloud, OneDrive, Dropbox):
 
