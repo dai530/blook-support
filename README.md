@@ -1,4 +1,4 @@
-# Blook — Customer Support Hub
+# Blook — Bookmark Lookup
 
 ![Blook - Bookmark Lookup](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/blook-banner.png 'Blook - Bookmark Lookup')
 
