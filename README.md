@@ -2,6 +2,8 @@
 
 ![Blook - Bookmark Lookup](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/blook-banner.png 'Blook - Bookmark Lookup')
 
+[![Download Blook from the Mac App Store](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/mac-app-store-badge.svg 'Download Blook from the Mac App Store')](https://apps.apple.com/us/app/blook/id6781994927)
+
 ## Screenshot
 
 ![Blook Screenshot](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/blook-screenshot.png 'Blook Screenshot')
