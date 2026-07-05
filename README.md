@@ -10,10 +10,10 @@
 
 ## Features
 
-- Minimalist layout focusing on a cleaner, better bookmark display
-- Drag-and-drop user interface for effortless management
-- Portable SQLite database – makes it easy to back up and synchronise through the cloud drive of your choice
-- Instant search via a global shortcut (Cmd + K on macOS, Ctrl + K on Windows)
+- Minimalist layout focusing on a cleaner, better bookmark display.
+- Drag-and-drop user interface for effortless management.
+- Portable SQLite database – makes it easy to back up and synchronise through the cloud drive of your choice.
+- Instant search via a global shortcut (Cmd + K on macOS, Ctrl + K on Windows).
 
 ## Feedback and Contributions
 
