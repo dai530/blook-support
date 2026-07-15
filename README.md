@@ -4,7 +4,7 @@
 
 [![Download Blook from the Mac App Store](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/mac-app-store-badge.svg 'Download Blook from the Mac App Store')](https://apps.apple.com/us/app/blook/id6781994927) &nbsp; [![Download Blook from the Microsoft Store](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/microsoft-store-badge.svg 'Download Blook from the Microsoft Store')](https://apps.microsoft.com/detail/9N0HJFC6XZRM)
 
-
+[![Download Blook New Tab from Firefox Browser Add-ons](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/firefox.svg 'Download Blook New Tab from Firefox Browser Add-ons')](https://addons.mozilla.org/addon/blook-new-tab)
 
 ## Screenshot
 
