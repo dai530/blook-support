@@ -1,6 +1,6 @@
-# Blook — Bookmark Lookup
+# Blook - Private Bookmark Manager
 
-![Blook - Bookmark Lookup](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/blook-banner.png 'Blook - Bookmark Lookup')
+![Blook - Private Bookmark Manager](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/blook-banner.png 'Blook - Private Bookmark Manager')
 
 [![Download Blook from the Mac App Store](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/mac-app-store-badge.svg 'Download Blook from the Mac App Store')](https://apps.apple.com/us/app/blook/id6781994927) &nbsp; [![Download Blook from the Microsoft Store](https://raw.githubusercontent.com/dai530/blook-support/refs/heads/main/assets/microsoft-store-badge.svg 'Download Blook from the Microsoft Store')](https://apps.microsoft.com/detail/9N0HJFC6XZRM)
 
