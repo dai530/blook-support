@@ -14,6 +14,7 @@
 
 - Minimalist layout focusing on a cleaner, better bookmark display.
 - Drag-and-drop user interface for effortless management.
+- Lock boards to prevent changes and mask bookmarks for privacy, with optional PIN protection.
 - Portable SQLite database – makes it easy to back up and synchronise through the cloud drive of your choice.
 - Instant search via a global shortcut (Cmd + K on macOS, Ctrl + K on Windows).
 - No subscriptions, no ads, zero tracking. Buy once, own it for life, including all future updates.
